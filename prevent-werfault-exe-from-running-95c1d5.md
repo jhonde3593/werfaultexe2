@@ -1,0 +1,9 @@
+## prevent werfault.exe from running
+
+<h2><a href="https://exedetect.com/download.php?prevent werfault.exe from running">🔗 👉 Learn More About prevent werfault.exe from running</a></h2>
+
+[![Download The Repair Tool](https://exedetect.com/download-button.jpg)](https://exedetect.com/download.php?prevent werfault.exe from running)
+
+To prevent werfault.exe from running, you can disable the Windows Error Reporting service, which is responsible for the execution of this process whenever an application crashes or encounters an error. To do this, open the Run dialog by pressing Win + R, type "services.msc," and hit Enter. In the Services window, scroll down to find "Windows Error Reporting Service," right-click it, and select Properties. In the Properties window, change the Startup type to Disabled and click Stop to halt the service if it's currently running. Additionally, you can modify the Group Policy settings by typing "gpedit.msc" in the Run dialog, navigating to Computer Configuration > Administrative Templates > Windows Components > Windows Error Reporting, and configuring the settings to disable error reporting entirely. Alternatively, you can access the Control Panel, go to "System and Security," select "Security and Maintenance," and under the "Reporting problems" section, choose to turn off the error reporting feature. Keep in mind that disabling this feature may limit your ability to receive solutions for application issues, so weigh the pros and cons before proceeding.
+
+See also: <a href="https://werfaultexe.com/disable-werfault.exe">prevent werfault.exe from running</a>
